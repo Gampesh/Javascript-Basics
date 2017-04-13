@@ -1,6 +1,3 @@
-/**
- * Created by sahug on 12/04/17.
- */
 "use strict";
  eval ("var x = 2; console.log(x);");
 //console.log(x); // without strict mode this will print 2 but with strict mode this will throw x is not allowed.
