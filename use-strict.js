@@ -14,8 +14,7 @@ function foo1()
     };
 }
 
-function foo2()
-{
+function foo2() {
     return
     {
         bar: "hello"
